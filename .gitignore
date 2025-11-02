@@ -1,0 +1,8 @@
+.claude/settings.json
+.claude/settings.local.json
+.idea/
+cmake-build-*/
+target/
+
+# folders we use for checking out other repositories, tests or whatever
+.ignore/
