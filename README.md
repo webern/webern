@@ -50,7 +50,8 @@ I worked on various projects, including:
 
 I led the design and implementation of developer tooling for creating custom variants of
 Bottlerocket, called [Twoliter]. When [Fargate] wanted to use Bottlerocket to replace AL2 in its
-next platform version, the problem we faced was that Bottlerocket variants were defined in-line in the
+next platform version, the problem we faced was that Bottlerocket variants were defined in-line in
+the
 Bottlerocket monorepo. The only way for a customer to customize Bottlerocket would be to fork the
 monorepo, maintain difficult patches, and build everything from source. We needed to create a
 project-based solution for **Out of Tree Builds**.
@@ -75,6 +76,11 @@ you to add any software of your own to the image.
 - [First Kit Build]: Buildsys builds a toy test kit for the first time!
 - [Remove Agile Workaround]: Remove the workaround that we were using to support our first customer
   before kits were finished.
+
+I have written a more extensive overview of the project for an deep-dive interview that I did with
+one company.
+
+- [Twoliter project description document](./TWOLITER.md)
 
 ### Signed Migrations
 
