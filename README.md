@@ -1,4 +1,3 @@
-
 # Matthew James Briggs
 
 ## FAQ
@@ -13,11 +12,19 @@
 - Q: Why a weird GitHub username?
 - A: Because I made it a long time ago before I knew GitHub was important.
 
-Anton Webern was a 12-tone composer of the *Second Viennese School*, buddies with Schönberg and Berg.
+Anton Webern was a 12-tone composer of the *Second Viennese School*, buddies with Schönberg and
+Berg.
 Webern DGAF and wrote tiny, short, sparse pieces,
 sometimes so small you can count the notes.
 Back when I was in music school, I was impressed and wrote some short, sparse pieces of my own.
 
 **Annoying Disclaimer**
 
-Unless I say otherwise, anything I say on GitHub or anywhere else is my own opinion and not that of my employer.
+Unless I say otherwise, anything I say on GitHub or anywhere else is my own opinion and not that of
+my employer.
+
+## Test Link
+
+More content is coming, but before publishing that, I want to see what happens if I link to
+another [file](./TEST_FILE.md) from my GitHub profile page.
+
